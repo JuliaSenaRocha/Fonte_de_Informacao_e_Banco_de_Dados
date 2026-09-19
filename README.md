@@ -15,3 +15,6 @@ Análises feitas:
 
 Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que São José dos Campos (4) 
 Por dedução analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
+
+## Dashboard de analise de dados 
+<img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
