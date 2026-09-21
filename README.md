@@ -18,4 +18,5 @@ Por dedução á analise, o resultado deve-se a geografia ao polo indústrial e 
 
 
 ## Dashboard de analise de dados 
+https://github.com/JuliaSenaRocha/Analise-dados-abertos-favelas/blob/main/censo2022_favelas%20(2)%20J%C3%BAlia.1.xlsx
 <img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
