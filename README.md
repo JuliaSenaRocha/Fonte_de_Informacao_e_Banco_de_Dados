@@ -8,13 +8,13 @@ Para a aplicação dessa atividade foram coletados dados relativos a empresas mu
 
 Análises feitas:
 
-1)Quantas OTM's existem em cada cidade do Brasil?
+1) Quantas OTM's existem em cada cidade do Brasil?
 
 <img width="713" height="595" alt="image" src="https://github.com/user-attachments/assets/17c444ac-e9af-4b87-83d5-4cca50c71a5f" />
 
 
-Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que São José dos Campos (4) 
-Por dedução analisando o resultado deve-se a geografia ao polo industrial e infraestrutura modal da cidade 
+Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais empresas certificadas que em São José dos Campos (4) 
+Por dedução á analise, o resultado deve-se a geografia ao polo indústrial e infraestrutura modal da cidade.
 
 ## Dashboard de analise de dados 
 <img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
