@@ -1,10 +1,10 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
-Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI FATEC-SJC
+Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da Produção Industrial) FATEC-SJC, Refernte a matéria FIBD (Fonte de Informação e Banco de Dados).
 
 ## Analise de Dados Abertos por meio de Dashboard
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
 
-Foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a construção do dashboard foram usados linguagem DAX e construção de visualizações
+Para a aplicação dessa atividade foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a criação e construção do dashboard foram usados linguagem DAX e graficos para fácil entendimento visual
 
 Análises feitas:
 
