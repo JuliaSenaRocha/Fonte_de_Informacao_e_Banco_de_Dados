@@ -33,7 +33,7 @@ Ferramenta utilizada: Microsoft Excel.
 
 
 
-## Projeto de Apresentação Pessoa
+## Projeto de Apresentação Pessoal
 
 https://canva.link/8won329twz00d14
 <img width="1637" height="906" alt="image" src="https://github.com/user-attachments/assets/c804fa34-2986-407a-b1e7-b2263b11d146" />
