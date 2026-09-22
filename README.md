@@ -46,6 +46,8 @@ A apresentação foi organizada em diferentes temas, incluindo a apresentação 
 Atividade acadêmica desenvolvida a partir de uma base de dados de empresas relacionadas ao Operador de Transporte Multimodal (OTM)
 
 A atividade envolveu a organização e análise de dados cadastrais das empresas, incluindo informações como razão social, país de origem, estado, município, CNPJ, e-mail e dados relacionados ao registro do OTM.
+<img width="576" height="658" alt="image" src="https://github.com/user-attachments/assets/e50e6bb4-684d-4cb5-ba2f-77cf1564eb0a" />
+
 Também foram elaboradas tabelas de contagem para analisar a distribuição das empresas por estado brasileiro e por país de origem.
 
 Ferramenta utilizada: Microsoft Excel.
