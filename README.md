@@ -3,7 +3,7 @@ Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da P
 
 
 
-## Analise de Dados Abertos por meio de Dashboard (power BI
+## Analise de Dados Abertos por meio de Dashboard (power BI)
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
 
 Para a aplicação dessa atividade foram coletados dados relativos a empresas multimodais presentes no site da ANTT. Para a criação e construção do dashboard foram usados linguagem DAX e graficos para fácil entendimento visual
@@ -29,7 +29,6 @@ Foram utilizados dados relacionados à quantidade de favelas, área territorial 
 A atividade também envolveu a organização dos dados em planilhas, criação de análises para responder perguntas específicas e elaboração de um dashboard para facilitar a visualização e interpretação das informações.
 
 Fonte dos dados: Instituto Brasileiro de Geografia e Estatística (IBGE).
-
 Ferramenta utilizada: Microsoft Excel.
 
 
