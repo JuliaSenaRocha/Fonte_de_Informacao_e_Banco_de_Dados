@@ -41,3 +41,8 @@ https://canva.link/8won329twz00d14
 Projeto desenvolvido em grupo com o objetivo de apresentar os integrantes da equipe e compartilhar um pouco sobre suas experiências e interesses pessoais.
 A apresentação foi organizada em diferentes temas, incluindo a apresentação da equipe, sonhos, trabalho, hobbies e viagens. A atividade proporcionou uma oportunidade de desenvolver a comunicação, a interação entre os integrantes e a elaboração de uma apresentação em grupo.
 
+
+##Operador de Transporte Multimodal
+Atividade acadêmica desenvolvida a partir de uma base de dados de empresas relacionadas ao Operador de Transporte Multimodal (OTM)
+
+A atividade envolveu a organização e análise de dados cadastrais das empresas, incluindo informações como razão social, país de origem, estado, município, CNPJ, e-mail e dados relacionados ao registro do OTM.
