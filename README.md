@@ -17,6 +17,10 @@ Interagindo com o mapa foi observado que a cidade de Manaus (87) possui mais emp
 Por dedução á analise, o resultado deve-se a geografia ao polo indústrial e infraestrutura modal da cidade.
 
 
-## Dashboard de analise de dados 
+## Análise de Dados — Censo 2022 e Dashboard 
+Atividade acadêmica desenvolvida a partir de dados do Censo 2022 do IBGE, com foco na análise de informações sobre favelas e comunidades urbanas no estado de São Paulo.
 https://github.com/JuliaSenaRocha/Analise-dados-abertos-favelas/blob/main/censo2022_favelas%20(2)%20J%C3%BAlia.1.xlsx
 <img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
+
+Foram utilizados dados relacionados à quantidade de favelas, área territorial e população, incluindo informações sobre pessoas brancas, pretas, pardas e indígenas.
+<img width="1617" height="683" alt="image" src="https://github.com/user-attachments/assets/ac8107ed-1be4-443e-8034-f9b5de0550a7" />
