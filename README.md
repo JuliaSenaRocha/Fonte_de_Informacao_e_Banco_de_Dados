@@ -19,7 +19,8 @@ Por dedução á analise, o resultado deve-se a geografia ao polo indústrial e 
 
 ## Análise de Dados — Censo 2022 e Dashboard 
 Atividade acadêmica desenvolvida a partir de dados do Censo 2022 do IBGE, com foco na análise de informações sobre favelas e comunidades urbanas no estado de São Paulo.
-https://github.com/JuliaSenaRocha/Analise-dados-abertos-favelas/blob/main/censo2022_favelas%20(2)%20J%C3%BAlia.1.xlsx
+https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/censo2022_favelas%20(2)%20J%C3%BAlia.1.xlsx
+
 <img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
 
 Foram utilizados dados relacionados à quantidade de favelas, área territorial e população, incluindo informações sobre pessoas brancas, pretas, pardas e indígenas.
