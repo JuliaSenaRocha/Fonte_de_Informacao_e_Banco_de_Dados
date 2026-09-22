@@ -24,4 +24,16 @@ https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main
 <img width="930" height="475" alt="image" src="https://github.com/user-attachments/assets/591dffd2-a1bb-4439-b41e-9f13aaa44d05" />
 
 Foram utilizados dados relacionados à quantidade de favelas, área territorial e população, incluindo informações sobre pessoas brancas, pretas, pardas e indígenas.
-<img width="1617" height="683" alt="image" src="https://github.com/user-attachments/assets/ac8107ed-1be4-443e-8034-f9b5de0550a7" />
+A atividade também envolveu a organização dos dados em planilhas, criação de análises para responder perguntas específicas e elaboração de um dashboard para facilitar a visualização e interpretação das informações.
+
+Fonte dos dados: Instituto Brasileiro de Geografia e Estatística (IBGE).
+
+Ferramenta utilizada: Microsoft Excel.
+
+##Projeto de Apresentação Pessoa
+https://canva.link/8won329twz00d14
+<img width="1637" height="906" alt="image" src="https://github.com/user-attachments/assets/c804fa34-2986-407a-b1e7-b2263b11d146" />
+
+Projeto desenvolvido em grupo com o objetivo de apresentar os integrantes da equipe e compartilhar um pouco sobre suas experiências e interesses pessoais.
+A apresentação foi organizada em diferentes temas, incluindo a apresentação da equipe, sonhos, trabalho, hobbies e viagens. A atividade proporcionou uma oportunidade de desenvolver a comunicação, a interação entre os integrantes e a elaboração de uma apresentação em grupo.
+
