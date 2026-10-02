@@ -2,7 +2,8 @@
 Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da Produção Industrial) FATEC-SJC, Referente a matéria FIBD (Fonte de Informação e Banco de Dados).
 
 
-##📊 Dashboard — Empresas de Transporte Multimodal
+## 📊 Dashboard — Empresas de Transporte Multimodal
+
 *Descrição da atividade*
 Nesta atividade, foi desenvolvido um dashboard no Power BI a partir de uma base de dados de empresas de transporte multimodal. O objetivo foi analisar os dados e apresentar as informações de forma visual e organizada, facilitando a interpretação dos resultados.
 Foram criados gráficos, cartões e filtros para responder às principais questões propostas na atividade, permitindo identificar os estados e anos com maiores e menores quantidades de registros.
