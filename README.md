@@ -3,6 +3,7 @@ Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da P
 
 
 ## 📊 Dashboard — Empresas de Transporte Multimodal
+https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/raw/refs/heads/main/julia.0.0.pbix
 
 *Descrição da atividade*
 Nesta atividade, foi desenvolvido um dashboard no Power BI a partir de uma base de dados de empresas de transporte multimodal. O objetivo foi analisar os dados e apresentar as informações de forma visual e organizada, facilitando a interpretação dos resultados.
