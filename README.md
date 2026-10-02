@@ -2,6 +2,31 @@
 Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da Produção Industrial) FATEC-SJC, Referente a matéria FIBD (Fonte de Informação e Banco de Dados).
 
 
+##📊 Dashboard — Empresas de Transporte Multimodal
+*Descrição da atividade*
+Nesta atividade, foi desenvolvido um dashboard no Power BI a partir de uma base de dados de empresas de transporte multimodal. O objetivo foi analisar os dados e apresentar as informações de forma visual e organizada, facilitando a interpretação dos resultados.
+Foram criados gráficos, cartões e filtros para responder às principais questões propostas na atividade, permitindo identificar os estados e anos com maiores e menores quantidades de registros.
+Também foram utilizados recursos de formatação e interatividade do Power BI, incluindo um botão para retornar o dashboard ao estado inicial.
+
+🔎*Questões respondidas*
+Qual estado possui a maior quantidade de empresas de transporte multimodal?
+→ Amazonas (AM), com 98 empresas.
+Qual estado possui a menor quantidade de empresas de transporte multimodal?
+→ Amapá (AP), com 1 empresa.
+Qual ano possui a maior quantidade de registros em vigência?
+→ 2024, com 53 registros.
+Qual ano possui a menor quantidade de registros em vigência?
+→ 2018, com 8 registros.
+Qual é o total de empresas/registros na base de dados?
+→ 1.382 registros.
+*Ferramentas utilizadas:*
+🛠️ Ferramentas utilizadas
+Microsoft Excel — organização e análise inicial dos dados.
+Power BI — criação dos gráficos, cartões, filtros e dashboard.
+
+<img width="909" height="514" alt="image" src="https://github.com/user-attachments/assets/b0d7215a-ef53-4863-9959-babe9f87eaa9" />
+🎯 Objetivo da atividade
+Desenvolver conhecimentos em análise e visualização de dados, utilizando o Power BI para transformar uma base de dados em informações visuais que facilitem a interpretação dos resultados.
 
 ## Analise de Dados Abertos por meio de Dashboard (power BI)
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
