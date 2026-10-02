@@ -19,12 +19,15 @@ Qual estado possui a menor quantidade de empresas de transporte multimodal?
 
 Qual ano possui a maior quantidade de registros em vigência?
 → 2024, com 53 registros.
+
 Qual ano possui a menor quantidade de registros em vigência?
 → 2018, com 8 registros.
+
 Qual é o total de empresas/registros na base de dados?
 → 1.382 registros.
-*Ferramentas utilizadas:*
-🛠️ Ferramentas utilizadas
+
+
+🛠️ *Ferramentas utilizadas*
 Microsoft Excel — organização e análise inicial dos dados.
 Power BI — criação dos gráficos, cartões, filtros e dashboard.
 
