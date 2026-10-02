@@ -10,6 +10,7 @@ Foram criados gráficos, cartões e filtros para responder às principais quest�
 Também foram utilizados recursos de formatação e interatividade do Power BI, incluindo um botão para retornar o dashboard ao estado inicial.
 
 🔎*Questões respondidas*
+
 Qual estado possui a maior quantidade de empresas de transporte multimodal?
 → Amazonas (AM), com 98 empresas.
 Qual estado possui a menor quantidade de empresas de transporte multimodal?
