@@ -31,6 +31,7 @@ Qual município possui a maior população total?
 🛠️*Ferramentas utilizadas*
 
 Microsoft Excel — organização e análise inicial dos dados.
+
 Power BI — criação dos gráficos, cartões, filtros e dashboard.
 
 <img width="909" height="514" alt="image" src="https://github.com/user-attachments/assets/b0d7215a-ef53-4863-9959-babe9f87eaa9" />
