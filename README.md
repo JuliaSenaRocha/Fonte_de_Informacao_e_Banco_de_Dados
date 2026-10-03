@@ -6,9 +6,7 @@ Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da P
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/raw/refs/heads/main/julia.0.0.pbix
 
 *Descrição da atividade*
-Nesta atividade, foi desenvolvido um dashboard no Power BI a partir de uma base de dados de empresas de transporte multimodal. O objetivo foi analisar os dados e apresentar as informações de forma visual e organizada, facilitando a interpretação dos resultados.
-Foram criados gráficos, cartões e filtros para responder às principais questões propostas na atividade, permitindo identificar os estados e anos com maiores e menores quantidades de registros.
-Também foram utilizados recursos de formatação e interatividade do Power BI, incluindo um botão para retornar o dashboard ao estado inicial.
+Nesta atividade foi desenvolvido um dashboard no Power BI com o objetivo de analisar a população residente em favelas nos municípios do estado de São Paulo, considerando informações étnico-raciais e o total da população.
 
 🔎*Questões respondidas*
 
