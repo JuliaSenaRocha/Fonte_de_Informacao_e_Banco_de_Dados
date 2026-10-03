@@ -43,7 +43,7 @@ Para a aplicação dessa atividade foram coletados dados relativos a empresas mu
 
 Análises feitas:
 
-1) Quantas OTM's existem em cada cidade do Brasil?
+*1) Quantas OTM's existem em cada cidade do Brasil?*
 
 <img width="713" height="595" alt="image" src="https://github.com/user-attachments/assets/17c444ac-e9af-4b87-83d5-4cca50c71a5f" />
 
