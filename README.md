@@ -11,21 +11,20 @@ Foram criados gráficos, cartões e filtros para responder às principais quest�
 Também foram utilizados recursos de formatação e interatividade do Power BI, incluindo um botão para retornar o dashboard ao estado inicial.
 
 🔎*Questões respondidas*
+Qual município possui a menor população parda?
+→ Presidente Epitácio (SP), com 61 pessoas.
 
-Qual estado possui a maior quantidade de empresas de transporte multimodal?
-→ Amazonas (AM), com 98 empresas.
+Qual município possui a maior população indígena?
+→ São Paulo (SP), com 2.161 pessoas.
 
-Qual estado possui a menor quantidade de empresas de transporte multimodal?
-→ Amapá (AP), com 1 empresa.
+Qual município possui a menor população branca?
+→ Presidente Epitácio (SP), com 30 pessoas.
 
-Qual ano possui a maior quantidade de registros em vigência?
-→ 2024, com 53 registros.
+Qual município possui a maior população preta?
+→ São Paulo (SP), com 247.842 pessoas.
 
-Qual ano possui a menor quantidade de registros em vigência?
-→ 2018, com 8 registros.
-
-Qual é o total de empresas/registros na base de dados?
-→ 1.382 registros.
+Qual município possui a maior população total?
+→ São Paulo (SP), com 1.728.265 pessoas.
 
 
 🛠️*Ferramentas utilizadas*
