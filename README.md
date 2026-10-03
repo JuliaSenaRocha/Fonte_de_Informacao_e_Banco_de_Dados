@@ -11,6 +11,7 @@ Foram criados gráficos, cartões e filtros para responder às principais quest�
 Também foram utilizados recursos de formatação e interatividade do Power BI, incluindo um botão para retornar o dashboard ao estado inicial.
 
 🔎*Questões respondidas*
+
 Qual município possui a menor população parda?
 → Presidente Epitácio (SP), com 61 pessoas.
 
@@ -28,6 +29,7 @@ Qual município possui a maior população total?
 
 
 🛠️*Ferramentas utilizadas*
+
 Microsoft Excel — organização e análise inicial dos dados.
 Power BI — criação dos gráficos, cartões, filtros e dashboard.
 
