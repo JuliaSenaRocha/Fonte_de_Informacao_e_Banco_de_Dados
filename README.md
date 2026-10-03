@@ -36,7 +36,6 @@ Power BI — criação dos gráficos, cartões, filtros e dashboard.
 🎯 Objetivo da atividade
 Desenvolver conhecimentos em análise e visualização de dados, utilizando o Power BI para transformar uma base de dados em informações visuais que facilitem a interpretação dos resultados.
 
-
 ## Analise de Dados Abertos por meio de Dashboard (power BI)
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/empresasmultimodais0.1.0.pbix
 
