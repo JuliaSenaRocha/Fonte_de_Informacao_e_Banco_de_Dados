@@ -1,11 +1,10 @@
-# Análise de Dados – Nupcialidade (SEADE)
+# Fonte_de_Informacao_e_Banco_de_Dados
 Descrição da atividade
-
 Nesta atividade, foi realizada uma análise de dados utilizando o conjunto de dados Nupcialidade, disponibilizado pela Fundação Sistema Estadual de Análise de Dados (SEADE).
 
 O objetivo foi desenvolver um modelo de regressão linear simples para analisar a relação entre a idade média dos homens ao casar (variável X) e a idade média das mulheres ao casar (variável Y).
 
-# Fonte_de_Informacao_e_Banco_de_Dados
+# Análise de Dados – Nupcialidade (SEADE)
 Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da Produção Industrial) FATEC-SJC, Referente a matéria FIBD (Fonte de Informação e Banco de Dados).
 <img width="1022" height="637" alt="image" src="https://github.com/user-attachments/assets/7a406ea6-a943-4467-bdda-3807efc837fd" />
 
