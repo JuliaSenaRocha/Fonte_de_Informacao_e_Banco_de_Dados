@@ -1,7 +1,21 @@
 # Fonte_de_Informacao_e_Banco_de_Dados
 Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da Produção Industrial) FATEC-SJC, Referente a matéria FIBD (Fonte de Informação e Banco de Dados).
 # Análise de Dados – Nupcialidade (SEADE)
+
+# Dashboard – Investimentos Captados (SEADE)
+<img width="1430" height="783" alt="image" src="https://github.com/user-attachments/assets/77990480-5eed-4de2-afea-795a9f0c302f" />
+
 Descrição da atividade
+
+Nesta atividade, foi desenvolvido um relatório interativo (Dashboard) utilizando o Power BI, com base no conjunto de dados Investimentos Captados, disponibilizado pela Fundação Sistema Estadual de Análise de Dados (SEADE).
+
+O objetivo foi organizar, analisar e apresentar informações sobre os investimentos captados, permitindo visualizar sua distribuição geográfica e identificar os setores econômicos envolvidos.
+
+
+
+
+Descrição da atividade
+
 Nesta atividade, foi realizada uma análise de dados utilizando o conjunto de dados Nupcialidade, disponibilizado pela Fundação Sistema Estadual de Análise de Dados (SEADE).
 
 O objetivo foi desenvolver um modelo de regressão linear simples para analisar a relação entre a idade média dos homens ao casar (variável X) e a idade média das mulheres ao casar (variável Y).
