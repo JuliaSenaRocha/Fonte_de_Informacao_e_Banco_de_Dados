@@ -7,7 +7,7 @@ Nesta atividade, foi realizada uma análise de dados utilizando o conjunto de da
 O objetivo foi desenvolver um modelo de regressão linear simples para analisar a relação entre a idade média dos homens ao casar (variável X) e a idade média das mulheres ao casar (variável Y).
 
 
-
+https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/raw/refs/heads/main/nupcialidade%201.xlsx
 <img width="1022" height="637" alt="image" src="https://github.com/user-attachments/assets/7a406ea6-a943-4467-bdda-3807efc837fd" />
 
 
