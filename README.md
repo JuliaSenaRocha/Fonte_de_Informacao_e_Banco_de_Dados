@@ -3,6 +3,7 @@ Atividades desenvolvidas durante o 1°Semestre da faculdade de GPI (Gestão da P
 
 
 # Dashboard – Investimentos Captados (SEADE)
+https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Captura%20de%20tela%202026-11-13%20225512.png
 https://github.com/JuliaSenaRocha/Fonte_de_Informacao_e_Banco_de_Dados/blob/main/Investimentos%20(1).pbix
 <img width="1430" height="783" alt="image" src="https://github.com/user-attachments/assets/77990480-5eed-4de2-afea-795a9f0c302f" />
 
